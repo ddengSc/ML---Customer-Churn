@@ -1,2 +1,1 @@
-# ML---Customer-Churn
-Customer Churn ML 
+This project demonstrates my interest in the LinkedIn AI/ML Apprentice Engineer role by highlighting my ability to tackle real-world business problems through data analysis and machine learning. The predictive modeling, data preprocessing, and feature engineering work I completed for this project reflect the skills and mindset necessary to build AI/ML solutions that deliver meaningful insights.
